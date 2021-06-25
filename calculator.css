@@ -1,0 +1,43 @@
+#cal-body{
+  height:70vh;
+  width:20vw;
+  
+  border:2px solid grey;
+  //border-radius:10%;
+  margin-left : 40vw;
+  position:absolute;
+}
+#screen-body{
+ // position:relative;
+  height:15%;
+  width:2000px;
+  background-color:#AFC7C7;
+  //border-radius:15%;
+  //overflow:hidden;
+  padding:5px;
+}
+#row1{
+ //display:flex;
+ //justify-content:space-between;
+ 
+}
+
+
+.colh{
+  height:3rem;
+  width:6rem;
+  text-align:center;
+}
+.colhlast{
+  height:3rem;
+  width:8rem;
+  text-align:center;
+}
+.color{
+ background-size:cover;
+ background-repeat:no-repeat;
+ background-color:brown;
+ 
+ width:cover;
+ text-align:center;
+}
